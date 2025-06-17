@@ -20,8 +20,7 @@
 
 ## 📸 Screenshots
 
-![screenshot](./screenshots/hero-section.png)
-_Add more if you have them_
+![screenshot](./screenshots/Hero.png)
 
 ## 🧪 Setup & Installation
 
