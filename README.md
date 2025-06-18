@@ -20,7 +20,29 @@
 
 ## 📸 Screenshots
 
+### First Section
+
 ![screenshot](./screenshots/Hero.png)
+
+### Second Section
+
+![Second](./screenshots/Second.png)
+
+### Third Section
+
+![Third](./screenshots/Third.png)
+
+### Fourth Section
+
+![Fourth](./screenshots/Fourth.png)
+
+### Fifth Section
+
+![Fifth](./screenshots/Fifth.png)
+
+### Sixth Section
+
+![Seventh](./screenshots/Seventh.png)
 
 ## 🧪 Setup & Installation
 

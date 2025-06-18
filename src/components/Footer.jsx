@@ -3,7 +3,7 @@ import { resourcesLinks, platformLinks, communityLinks } from "../constants";
 
 const Footer = () => {
   return (
-    <footer className="mt-20 border-t border-neutral-800 pt-10 px-6">
+    <footer className="mt-20 border-t border-neutral-800 pt-10 px-6 pb-20">
       <div className="grid grid-cols-2 lg:grid-cols-3 gap-8">
         <div>
           <h3 className="text-md font-semibold sm:text-2xl lg:text-4xl mb-4 bg-gradient-to-r from-orange-500 to-red-800 text-transparent bg-clip-text">
