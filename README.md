@@ -42,7 +42,7 @@
 
 ### Sixth Section
 
-![Seventh](./screenshots/Seventh.png)
+![Sixth](./screenshots/Sixth.png)
 
 ## 🧪 Setup & Installation
 
